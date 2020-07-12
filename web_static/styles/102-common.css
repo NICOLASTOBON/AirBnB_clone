@@ -9,6 +9,11 @@ body {
     max-width: 1000px;
     margin: 30px auto;
 }
+@media screen and (max-width:1024px) {
+    .container {
+        max-width: 800px;
+    }   
+}
 @media screen and (max-width: 767px) {
     .container {
         max-width: 390px;
