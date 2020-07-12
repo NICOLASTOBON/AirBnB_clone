@@ -1,0 +1,19 @@
+.filters {
+    height: 70px;
+    width: 100%;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+button {
+    height: 48px;
+    width: 20%;
+    font-size: 18px;
+    margin-right: 30px;
+    background-color: #ff545f;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+}
